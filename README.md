@@ -1,2 +1,2 @@
-# myjs
-My JS File
+# SAFELINK BLOGSPOT
+JS File
